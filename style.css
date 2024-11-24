@@ -389,6 +389,15 @@ font-family: 'Times New Roman', Times, serif;
 .gallery {
   background-image: url(img/arsha.jpg);
 }
+.gallery span {
+  font-size: larger;
+  font-weight: bold;
+}
+.gallery p {
+  font-size: large;
+  color: #0a0a0a;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
 .rsvp {
   background-color: var(--bg);
