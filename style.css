@@ -123,19 +123,22 @@ font-family: 'Times New Roman', Times, serif;
 }
 
 .home h3 {
-  color: #444;
-  font-size: 1.5rem;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #660a0a;
+  font-size: 1.8rem;
   margin-bottom: 1rem;
 }
 .home h4 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: oblique;
   font-weight: bold;
   color: #f14e9a
   
 }
 
 .home p {
-  font-size: 1.1rem;
-  color: #666;
+  font-size: 1.7rem;
+  color: #130101;
 }
 
 .home .couple {
@@ -172,7 +175,7 @@ font-family: 'Times New Roman', Times, serif;
  width: 300px;
  height: 300px;
  border-radius: 0%;
- margin-left: 100px;
+ margin: auto;
 }
 .info {
   background-color: var(--bg);
